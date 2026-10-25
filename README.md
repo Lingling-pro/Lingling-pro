@@ -1,4 +1,18 @@
-## Hi there 👋
+
+<div align="center">
+
+<h1>Lingling Hung</h1>
+
+<h3>Healthcare CEO | AI & Digital Transformation</h3>
+
+<img src="https://img.shields.io/badge/Healthcare-Leadership-144382?style=for-the-badge" alt="Healthcare Leadership"/>
+<img src="https://img.shields.io/badge/Public-Health-FDCD2D?style=for-the-badge" alt="Public Health"/>
+<img src="https://img.shields.io/badge/AI-Innovation-144382?style=for-the-badge" alt="AI Innovation"/>
+
+<p><strong>Building a Smarter, More Human-Centered Healthcare System.</strong></p>
+
+</div>
+
 
 <!--
 **Lingling-pro/Lingling-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Lingling Hung 👋
 
 ### Healthcare CEO | Public Health | AI & Digital Transformation
 
