@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Lingling Hung 👋
+
+### Healthcare CEO | Public Health | AI & Digital Transformation
+
+**醫療經營 × 公共衛生 × 人工智慧 × 創新領導**
+
+Welcome to my GitHub!
+
+我是 Lingling Hung，現任 **億安醫療體系執行長**，具有公共衛生與醫務管理背景，致力於結合臨床醫療、預防醫學與人工智慧，打造以病人為中心的健康照護體系。
+
+## About Me | 關於我
+
+- **Healthcare Leadership** — 醫療體系經營與策略管理
+- **Public Health** — 公共衛生、慢性病管理與健康促進
+- **AI Transformation** — AI 醫療應用、流程自動化與數位轉型
+- **Business Strategy** — 醫療財務、人力資源與組織發展
+- **Preventive Medicine** — 全人預防醫學與整合式健康照護
+
+## My Mission | 我的使命
+
+**Building a Smarter, More Human-Centered Healthcare System.**
+
+以服務、當責與全人照護為核心，透過科技創新與團隊賦能，讓優質醫療服務更有效率、更有溫度，也更具永續發展能力。
+
+## Current Focus | 目前關注領域
+
+- AI-powered Healthcare Operations
+- Preventive Medicine & Chronic Disease Management
+- Healthcare Data Analytics
+- Digital Workflow Automation
+- Healthcare Leadership & Talent Development
+
+## My Vision | 未來願景
+
+運用人工智慧與實證管理，建立可標準化、可複製、可持續成長的智慧醫療營運模式。
+
+**Technology empowers healthcare. People make it meaningful.**
